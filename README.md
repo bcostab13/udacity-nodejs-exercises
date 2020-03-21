@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # udacity-c2-basic-server
 
 This is a simple node-express server to explore and understand the Request-Response pattern.
@@ -60,3 +61,7 @@ Try creating a method "concat" to concatenate two strings.
 
 5. @TODO `./src/unit-test-examples/units.tests.ts`
 Try creating a new describe block for the "concat" method.
+=======
+# udacity-nodejs-exercises
+This are my exercises for Unit 3 of my Nanodegree Program: Cloud Developer
+>>>>>>> a215789999e4bb69ec46d99f5184011136dcfafb
